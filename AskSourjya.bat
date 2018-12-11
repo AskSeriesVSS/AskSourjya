@@ -1,6 +1,6 @@
 @echo off
 title AskSourjya
-color 0a
+color 0b
 echo AskSourjya
 echo Always remember to add    +    sign instead of spaces.
 echo For eg: Photos+of+Flowers 
